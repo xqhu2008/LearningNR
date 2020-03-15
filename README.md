@@ -1,2 +1,2 @@
 # LearningNR
-A 3gpp specification of NR（new radio，AKA 5G）learning notes 
+This project is a reading note of some channels of 5g system, which follows 3GPP 38 series protocol.
